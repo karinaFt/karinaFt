@@ -1,8 +1,8 @@
 ## Hi, I'm Karina 👋
 
-Frontend Developer with 4 years of commercial experience building modern web applications.
+Frontend Developer with 4 years of commercial experience building modern web applications and coding  since 2019.
 
-## 🚀 About Me
+##  About Me
 
 * Frontend Developer specializing in React ecosystem
 * Experience with JavaScript and TypeScript
@@ -11,19 +11,23 @@ Frontend Developer with 4 years of commercial experience building modern web app
 * Interested in AI-assisted development
 * Currently improving my skills in full-stack development
 
-## 🎸 Beyond Coding
+## 🛠️ Tech Stack
+
+React • JavaScript/jQuery • TypeScript • Redux (RTK) • Tailwind • HTML/BEM • Material UI • Bootstrap • CSS • SCSS • Git • REST API • Scrum/Agile • npm
+
+##  Beyond Coding
 
 When I'm not coding, you can find me:
 
 * 🏋️ Training and staying active
 * 🎸 Playing guitar
-* ♟️ Game of chess
+* ♟️ Playing chess
 * 🌿 Drawing
 
-## 📫 Connect With Me
+##  Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/karina-ft/
-* Gmail: furt.kariina@gmail.com
+* Email: furt.kariina@gmail.com
 <!--
 **karinaFt/karinaFt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
