@@ -10,6 +10,15 @@ Frontend Developer with 4 years of commercial experience building modern web app
 * Experience working in Agile/Scrum teams
 * Interested in AI-assisted development
 * Currently improving my skills in full-stack development
+* Enjoy sharing knowledge and writing technical posts on LinkedIn
+
+<img width="482" height="865" alt="image" src="https://github.com/user-attachments/assets/81576729-8f83-47b2-8b98-a531c036ade2" />
+<img width="481" height="823" alt="image" src="https://github.com/user-attachments/assets/db83019e-f211-4f1f-af7a-8e3819bfb137" />
+
+
+<img width="480" height="706" alt="image" src="https://github.com/user-attachments/assets/3b189635-b656-4ded-b421-6cbb548cc15a" />
+<img width="476" height="707" alt="image" src="https://github.com/user-attachments/assets/30b1e365-fb60-4c75-99fd-da4545411a10" />
+
 
 ## Tech Stack
 
