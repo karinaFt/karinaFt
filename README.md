@@ -18,6 +18,7 @@ Frontend Developer with 4 years of commercial experience building modern web app
 
 <img width="230" height="auto" alt="image" src="https://github.com/user-attachments/assets/81576729-8f83-47b2-8b98-a531c036ade2" />
 <img width="230" height="auto" alt="image" src="https://github.com/user-attachments/assets/db83019e-f211-4f1f-af7a-8e3819bfb137" />
+<img width="230" height="auto" alt="image" src="https://github.com/user-attachments/assets/fc260ca6-e997-4b25-a186-0d95fe89bd8c" />
 
 <img width="230" height="auto" alt="image" src="https://github.com/user-attachments/assets/3b189635-b656-4ded-b421-6cbb548cc15a" />
 <img width="230" height="auto" alt="image" src="https://github.com/user-attachments/assets/30b1e365-fb60-4c75-99fd-da4545411a10" />
