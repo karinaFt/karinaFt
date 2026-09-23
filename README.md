@@ -1,4 +1,4 @@
-## Hi, I'm Karina 👋
+## Hi, I'm Karina
 
 Frontend Developer with 4 years of commercial experience building modern web applications and coding  since 2019.
 
@@ -11,9 +11,9 @@ Frontend Developer with 4 years of commercial experience building modern web app
 * Interested in AI-assisted development
 * Currently improving my skills in full-stack development
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-React • JavaScript/jQuery • TypeScript • Redux (RTK) • Tailwind • HTML/BEM • Material UI • Bootstrap • CSS • SCSS • Git • REST API • Scrum/Agile • npm
+• React • JavaScript/jQuery • TypeScript • Redux (RTK) • Tailwind • HTML/BEM • Material UI • Bootstrap • CSS/SCSS/LESS • Git/GitHub • REST API • Scrum/Agile • npm
 
 ##  Beyond Coding
 
