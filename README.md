@@ -1,6 +1,6 @@
 ## Hi, I'm Karina
 
-Frontend Developer with 4 years of commercial experience building modern web applications and coding  since 2019.
+Frontend Developer with commercial experience building web applications and coding  since 2019.
 
 ## Tech Stack
 
