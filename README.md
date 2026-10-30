@@ -1,4 +1,4 @@
-## Hi, I'm Karina 🦊
+## Hi, I'm Karina!
 
 Frontend Developer with commercial experience building web applications, coding  since 2019.
 
