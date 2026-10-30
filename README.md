@@ -1,15 +1,15 @@
 ## Hi, I'm Karina
 
-Frontend Developer with commercial experience building web applications and coding  since 2019.
+Frontend Developer with commercial experience building web applications, coding  since 2019.
 
 ## Tech Stack
 
-• React • JavaScript/jQuery • TypeScript • Redux (RTK) • Tailwind • HTML/BEM • Material UI • Bootstrap • CSS/SCSS/LESS • Git/GitHub • REST API • Scrum/Agile • npm
+• React • JavaScript/jQuery • Claude Code AI • TypeScript  • Redux (RTK) • Tailwind • HTML/BEM • Material UI • Bootstrap • CSS/SCSS/LESS • Git/GitHub • REST API • Scrum/Agile • npm • Shopify/Liquid
 
 ##  About Me
 
 * Frontend Developer specializing in React ecosystem
-* Experience with JavaScript and TypeScript
+* Experience with JavaScript and TypeScript, React, Claude Code AI
 * Building responsive, user-friendly interfaces
 * Experience working in Agile/Scrum teams
 * Interested in AI-assisted development
@@ -31,7 +31,6 @@ When I'm not coding, you can find me:
 * 🏋️ Training and staying active
 * 🎸 Playing guitar
 * ♟️ Playing chess
-* 🌿 Drawing
 
 ##  Connect With Me
 
