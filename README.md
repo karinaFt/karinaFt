@@ -4,7 +4,7 @@ Frontend Developer with commercial experience building web applications, coding 
 
 ## Tech Stack
 
-• React • JavaScript/jQuery • Claude Code AI • TypeScript  • Redux (RTK) • Tailwind • HTML/BEM • Material UI • Bootstrap • CSS/SCSS/LESS • Git/GitHub • REST API • Scrum/Agile • npm • Shopify/Liquid
+• React • JavaScript • TypeScript • Next.js • Claude Code AI • Redux (RTK) • Tailwind(CSS) • HTML/BEM • Material UI • CSS/SCSS/LESS • Git/GitHub • REST API • Scrum/Agile • Shopify/Liquid
 
 ##  About Me
 
